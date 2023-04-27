@@ -120,12 +120,12 @@ html, body{
     border-bottom-color: #ddd;
   }
   
-  media print {
-    
+  media print 
+    * {
       color: #000 !important;
-      text-shadow: none !important;
+      text-shadow : none !important;
       background: transparent !important;
-      box-shadow: none !important;  }
+      box-shadow: none !important; }
       
     .navbar {
       display: none;
