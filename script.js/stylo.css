@@ -42,8 +42,8 @@ html, body{
   /* Foto Barco Fijo y Titulo */
   
   #home-sec { 
-    background: url(../barcos/barcos.jpg
-    ) no-repeat 50% 50%;
+    background: url(img/barcos.jpg)
+     no-repeat 50% 50%;
     background-attachment: fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
